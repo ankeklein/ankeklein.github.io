@@ -1,7 +1,7 @@
 ---
 nameid: lynn
 layout: teammember
-name: LYNN MOBACH
+name: DR. LYNN MOBACH
 title: postdoc
 group: collaborator
 summary: 
