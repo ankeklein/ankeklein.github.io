@@ -1,7 +1,7 @@
 ---
 nameid: bonny
 layout: teammember
-name: BONNY VAN STEENSEL
+name: DR. BONNY VAN STEENSEL
 title: Universitair docent
 group: collaborator
 summary: Bonny van Steensel is universitair docent bij de afdeling pedagogische wetenschappen (orthopedagogiek) aan de Universiteit van Amsterdam.
