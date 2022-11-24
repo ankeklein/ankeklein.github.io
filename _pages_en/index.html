@@ -6,14 +6,7 @@ title: Home
 
 
 <div class="feature">
-  {% assign post = site.posts.first %}
-
   <div class="feature-text movetxt">
-    <!-- <time
-      datetime="{{ post.date | date_to_xmlschema }}"
-      class="feature-post-date"
-      >{{ post.date | date_to_string }}</time
-    > -->
     <h1 class="feature-title"></h1>
     <div class="feature-subtitle">
       </a>
@@ -24,7 +17,6 @@ title: Home
   </div>
 </div>
 
-ENGLISH
 <div class="posts-container">
   {% for post in site.news_en %}
   {% assign remainder = forloop.index | modulo: 2 %}
