@@ -3,7 +3,7 @@ nameid: recep
 layout: teammember
 name: DR. RECEP UYSAL
 title: Postdoc
-group: team
+group: collaborator
 summary: Recep is psycholoog en promoveerde op het gebied van de positieve psychologie. Hij werkt als senior onderzoeker bij het KIBA project.
 image: /img/recep.jpg
 ---
