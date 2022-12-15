@@ -13,4 +13,4 @@ In dit project volgden we kinderen van ouders met een angststoornis. Hoe ontwikk
 <br>
 <br>
 <br>
-Dit project werd gefinancieerd door ZonMw, met Prof. Eni Becker als hoofdonderzoeker. Dr. Rianne van Nienker schreef haar proefschrift over dit project.
+Dit project werd gefinancieerd door ZonMw, met Prof. Eni Becker als hoofdonderzoeker. Dr. Rianne van Nienker schreef haar proefschrift over de eerste wave van het project (promotor; Eni Becker en Mike Rinck; co-promotor en dagelijks begeleider: Anke klein). Momenteel zijn we bezig met het hele team bezig met het opschrijven van de tweede en derde wave. 
