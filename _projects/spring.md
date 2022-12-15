@@ -5,7 +5,7 @@ title: SPRING project
 summary: In dit project volgen we kinderen van ouders met een angststoornis. Hoe ontwikkelen deze kinderen zich? 
 category: project
 image: /img/spring.jpeg
-members: [anke,jeanine,ingrid,eni,rianne,mike]
+members: [anke, jeanine, ingrid, eni, rianne, mike]
 ---
 
 
